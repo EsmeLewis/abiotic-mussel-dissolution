@@ -1,4 +1,4 @@
-[README (1).md](https://github.com/user-attachments/files/27658125/README.1.md)
+[README.md](https://github.com/user-attachments/files/27658125/README.1.md)
 # Data from: Shell dissolution rates differ fourfold between mussel species
 
 Dataset DOI: [10.5061/dryad.6hdr7srck](10.5061/dryad.6hdr7srck)
