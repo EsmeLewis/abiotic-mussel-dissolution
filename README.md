@@ -1,8 +1,9 @@
 [README.md](https://github.com/user-attachments/files/27658125/README.1.md)
-# Data from: Shell dissolution rates differ fourfold between mussel species
+# Data and Data Analysis from: Shell dissolution rates differ fourfold between mussel species
 
 Dataset DOI: [10.5061/dryad.6hdr7srck](10.5061/dryad.6hdr7srck)
-Data Analysis DOI: [[![DOI](https://zenodo.org/badge/1237082354.svg)](https://doi.org/10.5281/zenodo.20147510)
+
+Data Analysis DOI: https://doi.org/10.5281/zenodo.20147510
 
 ## Description of the data and file structure
 
@@ -31,10 +32,6 @@ Abiotic dissolution in sealed and unsealed interior shells of *Mytilus trossulus
 **Code/Software Description:** The R analysis code is abiotic_dissolution_analysis.R and can be used to generate the statistics and figures in our manuscript. We used R v 4.5.0. Necessary packages are listed in the code: tidyverse, sf, purrr, ggplot2, car, rcompanion. 
 
 ## Access information
-
-Other publicly accessible locations of the data:
-
-* [https://github.com/rrcarlson/trossulus](https://github.com/rrcarlson/trossulus)
 
 Data was derived from the following sources:
 
