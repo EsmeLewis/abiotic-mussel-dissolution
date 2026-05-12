@@ -2,6 +2,7 @@
 # Data from: Shell dissolution rates differ fourfold between mussel species
 
 Dataset DOI: [10.5061/dryad.6hdr7srck](10.5061/dryad.6hdr7srck)
+Data Analysis DOI: [[![DOI](https://zenodo.org/badge/1237082354.svg)](https://doi.org/10.5281/zenodo.20147510)
 
 ## Description of the data and file structure
 
